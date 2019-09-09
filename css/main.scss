@@ -46,7 +46,8 @@ body {
     z-index: -1;
 
     @include desktop{
-        clip-path: polygon(0 0, 86% 0, 54% 98%, 0% 100%);
+        clip-path: polygon(0 0, 86% 0, 54% 100%, 0% 100%);
+
 
     }
   }

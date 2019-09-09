@@ -20,8 +20,8 @@ body #bg {
 
 @media (min-width: 840px) {
   body #bg {
-    -webkit-clip-path: polygon(0 0, 86% 0, 54% 98%, 0% 100%);
-            clip-path: polygon(0 0, 86% 0, 54% 98%, 0% 100%);
+    -webkit-clip-path: polygon(0 0, 86% 0, 54% 100%, 0% 100%);
+            clip-path: polygon(0 0, 86% 0, 54% 100%, 0% 100%);
   }
 }
 
